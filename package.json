@@ -1,6 +1,6 @@
 {
   "name": "context-async-storage",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Wraps Node.js AsyncLocalStorage to provide get, set, and run methods that maintain a context map across async continuations.",
   "type": "module",
   "main": "src/index.js",
